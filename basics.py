@@ -63,5 +63,45 @@
     # count += 1
 
 
+# A way to make decisions
 
-    
+# if some condition is met
+# do thing
+
+# if it is not met
+# do another thing
+
+# either way
+# do this
+
+
+# list_of_users = ['john', 'mary', 'jane', 'cyndi']
+
+# for user in list_of_users:
+#     if user == 'jane': # this condition is met or True
+#         print('Hey I found Jane!')
+#     else:
+#         print('Not Jane!')
+
+# if
+# elif
+# else
+
+# total = 2 + 2
+# if total == 4:
+#     print('Yes, 4.')
+
+
+
+# A way of displaying data
+
+#print('Hello, world.')
+
+
+# import pprint
+
+# list_of_users = ['john', 'mary', 'jane', 'cyndi']
+
+# pretty_print = pprint.PrettyPrinter(width=2, compact=True)
+
+# pretty_print.pprint(list_of_users)
